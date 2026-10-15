@@ -214,7 +214,11 @@ model_logs/updated_sustainability_metrics.xlsx
 
 ## Acknowledgements
 
-Experiments were carried out using the HPCNexus testbed at Technological University Dublin.
+## Acknowledgements
+
+This research was developed at the **[HPC-Nexus Lab](https://www.hpcnexuslab.ie/)**, Technological University Dublin, Ireland.
+
+**PhD Funding:** My PhD research is funded by the **Irish Research Council (IRC)**.
 
 ---
 
