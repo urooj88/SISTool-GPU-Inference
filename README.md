@@ -214,8 +214,6 @@ model_logs/updated_sustainability_metrics.xlsx
 
 ## Acknowledgements
 
-## Acknowledgements
-
 This research was developed at the **[HPC-Nexus Lab](https://www.hpcnexuslab.ie/)**, Technological University Dublin, Ireland.
 
 **PhD Funding:** My PhD research is funded by the **Irish Research Council (IRC)**.
